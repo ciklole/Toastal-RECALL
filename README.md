@@ -1,2 +1,1 @@
-aim the bread on a plate. many levels, with mechanics gettings harder and harder
-Scroll wheel to move around the map
+It's an Angry Birds style game, where you use a slice of Toast to land on a plate. Then, you progress from 9 very different levels. DIRECTIONS TO PLAY: To start, you drag the Toast slice to the direction you want the toaster to launch it. You only need a mouse or a trackpad to play this game!
