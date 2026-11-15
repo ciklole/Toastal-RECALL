@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f457b4f8c49beb4699fdf65e0df2d89, type: 3}
+  m_Name: LevelCatalog
+  m_EditorClassIdentifier: 
+  mainMenuSceneName: MainMenu
+  levelSelectSceneName: LevelSelect
+  settingsSceneName: Settings
+  levels:
+  - displayName: Level 1
+    sceneName: Level1
+    scenePath: Assets/Scenes/Level1.unity
+  - displayName: Level 2
+    sceneName: Level2
+    scenePath: Assets/Scenes/Level2.unity
+  - displayName: Level 3
+    sceneName: Level3
+    scenePath: Assets/Scenes/Level3.unity
+  - displayName: Level 4
+    sceneName: Level4
+    scenePath: Assets/Scenes/Level4.unity
+  - displayName: Level 5
+    sceneName: Level5
+    scenePath: Assets/Scenes/Level5.unity
+  - displayName: Level 6
+    sceneName: Level6
+    scenePath: Assets/Scenes/Level6.unity
+  - displayName: Level 7
+    sceneName: Level7
+    scenePath: Assets/Scenes/Level7.unity
+  - displayName: Level 8
+    sceneName: Level8
+    scenePath: Assets/Scenes/Level8.unity
+  - displayName: Level 9
+    sceneName: Level9
+    scenePath: Assets/Scenes/Level9.unity
